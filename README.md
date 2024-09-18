@@ -1,0 +1,2 @@
+# docs
+Gollum Wiki repository
