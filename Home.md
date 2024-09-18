@@ -1,4 +1,4 @@
-# Notas de la campaña de la Tumba de la Aniquilación
+# Tumba de la Aniquilación
 
 ## Personajes
 
