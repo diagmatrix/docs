@@ -1,5 +1,33 @@
-/* Body textured background */
-#wiki-body {
-    background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/ricepaper.png');
-    background-repeat: repeat;
+/* Font imports */
+/* Body */
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Table titles */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+/* Tables & buttons */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+/* Headings */
+@font-face {
+    font-family: "Andada SC";
+    src: url("assets/andada.sc.otf") format("opentype");
+    font-weight: normal;
 }
+
+/* D&D color scheme */
+:root {
+    --background: rgba(255, 254, 189, 0.2);
+    --foreground: #2c2e35;
+    --titles: #571713;
+    --hrules: #cfb268;
+    --red: #930C10;
+}
+
+/* Body */
+body {
+    background-color: var(--background);
+}
+
+h1 {
+    font-family: "Andada SC";
+}
+
+/* Searchbar */
