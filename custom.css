@@ -150,6 +150,9 @@ a {
     font-family: "Alegreya Sans";
     background-color: var(--page-background);
 }
-.markdown-body table tbody tr:nth-child(odd){
+.markdown-body table tbody tr:nth-child(odd) {
     background-color: var(--table-green);
+}
+.markdown-body table tbody tr:nth-child(even) {
+    background-color: var(--page-background);
 }
