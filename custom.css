@@ -14,16 +14,18 @@
 
 /* D&D color scheme */
 :root {
-    --background: rgba(255, 254, 189, 0.2);
+    --page-background: rgba(255, 254, 189, 0.2);
+    --background: #fffef1;
     --foreground: #2c2e35;
     --titles: #571713;
-    --hrules: #cfb268;
+    --yellow: #cfb268;
     --red: #930C10;
 }
 
 /* Body */
 body {
-    background-color: var(--background);
+    background-color: var(--page-background);
+    font-family: "Gentium Book Plus" !important;
 }
 
 h1 {
@@ -31,3 +33,8 @@ h1 {
 }
 
 /* Searchbar */
+#search-query {
+    background-color: var(--background);
+    border-color: var(--yellow);
+    color: var(--foreground);
+}
