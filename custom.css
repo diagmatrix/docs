@@ -1,5 +1,4 @@
 /* Body textured background */
 body {
-    background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/ricepaper.png');
-    background-repeat: repeat;
+    background-color: aqua;
 }
