@@ -21,6 +21,33 @@
     --yellow: #cfb268;
     --red: #930C10;
     --green: #7a853b;
+    --table-green: #e0e5c1;
+}
+
+/* No hover */
+.no-hover {
+    pointer-events: none;
+}
+
+/* All SVG symbols */
+.octicon.octicon-trash,
+.octicon.octicon-bold,
+.octicon.octicon-italic,
+.octicon.octicon-code,
+.octicon.octicon-list-unordered,
+.octicon.octicon-list-ordered,
+.octicon.octicon-quote,
+.octicon.octicon-horizontal-rule,
+.octicon.octicon-link,
+.octicon.octicon-image,
+.octicon.octicon-arrow-both,
+.octicon.octicon-question,
+.oticon.oticon-gear,
+.oticon.oticon-pencil {
+	color: var(--background) !important;
+}
+.btn .octicon {
+    color: var(--background) !important;
 }
 
 /* Body */
@@ -28,9 +55,24 @@ body {
     background-color: var(--page-background);
     font-family: "Gentium Book Plus" !important;
 }
+.markdown-body {
+    font-family: "Gentium Book Plus";
+}
 
-h1 {
+/* Titles */
+h1, h2, h3, h4 {
     font-family: "Andada SC";
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    color: var(--brown);
+    padding-bottom: .125em;
+    border-bottom: 0.125em groove var(--yellow);
 }
 
 /* Buttons */
@@ -47,6 +89,12 @@ h1 {
 	border-color: var(--red);
 }
 
+.btn:disabled {
+    background-color: var(--background);
+	color: var(--foreground);
+	border-color: var(--yellow);
+}
+
 .minibutton-new-page {
     background-color: var(--green);
 	color: var(--background);
@@ -58,6 +106,13 @@ h1 {
 	border-color: var(--yellow);
 }
 
+.btn.btn-sm.float-right.delete-file {
+    background-color: var(--red);
+	color: var(--background);
+	border-color: var(--red);
+}
+
+
 /* Button groups */
 .btn-group-flex {
 	display: flex;
@@ -65,9 +120,36 @@ h1 {
 	justify-content: space-between;
 }
 
+/* Links */
+a {
+    color: var(--red);
+}
+
 /* Searchbar */
 #search-query {
     background-color: var(--background);
     border-color: var(--yellow);
     color: var(--foreground);
+}
+
+/* Tables */
+.markdown-body table {
+    border-collapse: collapse;
+    border: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.markdown-body table th {
+    border: 0;
+    font-family: "Alegreya Sans";
+    font-weight: 700;
+    background-color: var(--page-background);
+}
+.markdown-body table td {
+    border: 0;
+    font-family: "Alegreya Sans";
+    background-color: var(--page-background);
+}
+.markdown-body table tbody tr:nth-child(odd){
+    background-color: var(--table-green);
 }
