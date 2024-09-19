@@ -154,5 +154,5 @@ a {
     background-color: var(--table-green);
 }
 .markdown-body table tbody tr:nth-child(even) {
-    background-color: var(--page-background);
+    background-color: var(--background);
 }
