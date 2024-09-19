@@ -17,9 +17,10 @@
     --page-background: rgba(255, 254, 189, 0.2);
     --background: #fffef1;
     --foreground: #2c2e35;
-    --titles: #571713;
+    --brown: #571713;
     --yellow: #cfb268;
     --red: #930C10;
+    --green: #7a853b;
 }
 
 /* Body */
@@ -30,6 +31,38 @@ body {
 
 h1 {
     font-family: "Andada SC";
+}
+
+/* Buttons */
+.btn {
+    font-family: "Alegreya Sans";
+    font-weight: 700;
+    background-color: var(--brown);
+	color: var(--background);
+	border-color: var(--brown);
+}
+.btn:hover {
+	background-color: var(--red);
+	color: var(--background);
+	border-color: var(--red);
+}
+
+.minibutton-new-page {
+    background-color: var(--green);
+	color: var(--background);
+	border-color: var(--green);
+}
+.minibutton-new-page:hover {
+    background-color: var(--yellow);
+	color: var(--background);
+	border-color: var(--yellow);
+}
+
+/* Button groups */
+.btn-group-flex {
+	display: flex;
+	column-gap: 0.25em;
+	justify-content: space-between;
 }
 
 /* Searchbar */

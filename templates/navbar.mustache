@@ -50,10 +50,10 @@
   </div>
 
   <div class="TableObject-item px-2">
-    <div class="BtnGroup d-flex">
+    <div class="BtnGroup btn-group-flex">
       {{#history}}
         <button
-          class="btn BtnGroup-item btn-sm hide-sm hide-md"
+          class="btn btn-primary btn-sm hide-sm hide-md"
           onclick="window.location.href='{{history_path}}/{{escaped_url_path}}/{{version}}';"
           id="minibutton-history"
         >
@@ -64,7 +64,7 @@
       {{#allow_editing}}
         {{#allow_uploads}}
           <button
-            class="btn BtnGroup-item btn-sm hide-sm hide-md minibutton-upload-page"
+            class="btn btn-primary btn-sm hide-sm hide-md minibutton-upload-page"
           >
             {{tt.navbar.upload_button}}
           </button>
@@ -72,12 +72,12 @@
 
         {{#editable}}
           <button
-            class="btn BtnGroup-item btn-sm hide-sm hide-md minibutton-rename-page"
+            class="btn btn-primary btn-sm hide-sm hide-md minibutton-rename-page"
           >
             {{tt.navbar.rename_button}}
           </button>
           <button
-            class="btn BtnGroup-item btn-sm hide-sm hide-md"
+            class="btn btn-primary btn-sm hide-sm hide-md"
             onclick="window.location.href='{{edit_path}}/{{escaped_url_path}}';"
             id="minibutton-edit-page"
           >
