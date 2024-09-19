@@ -1,5 +1,7 @@
 # Tumba de la Aniquilación
 
+Página principal para las notas de la campaña.
+
 ## Personajes
 
 | **Jugador** | **Nombre** | **Raza** | **Clase** | **Nivel** | **Estado** |
