@@ -42,3 +42,5 @@ Página principal para las notas de la campaña.
 1. Puño Ardiente
 2. Zhentarim
 3. Sociedad Ytepka
+4. Orden del Guantelete
+5. Enclave Esmeralda
