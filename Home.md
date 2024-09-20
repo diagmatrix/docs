@@ -29,10 +29,13 @@ Página principal para las notas de la campaña.
 
 | **Nombre** | **Descripción** | **Raza** | **Visto por última vez** |
 |:-----------:|:----------:|:--------:|:---------:|
-|   [Syndra Silvane](npcs/Syndra)   | Patrona de la campaña |  Elfo  | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-|   [Abbad](npcs/Abbad)  | Frutero de Puerto Nyanzaru | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-|  [Ayo](npcs/Ayo)  |  Armero de Puerto Nyanzaru  |  Humano  |   [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|   [Syndra Silvane](npcs/Syndra)   | Patrona de la campaña |  ?  | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|   [Abbad](npcs/Abbad)  | Frutero  | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|  [Ayo](npcs/Ayo)  |  Armero  |  Humano  |   [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 |   [Brottor](npcs/Brottor)  | Puño del Puño Ardiente | Enano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+| [Erky 'Plumaveloz'](npcs/Plumaveloz) | Cartógrafo y librero | Gnomo | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+| [Undril Colmilloplateado](npcs/Undril Colmilloplateado) | Clériga de la Orden del Guantelete | Semiorco | [Campamento Venganza](lugares/Campamento Venganza) |
+
 
 ## Facciones
 
