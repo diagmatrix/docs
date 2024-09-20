@@ -19,18 +19,6 @@ Página principal para las notas de la campaña.
 |:-----------:|:----------:|:----------:|
 |[Kriv](monstruos/Kriv) | Hadrosaurio | Activo |
 
-## Sesiones
-
- - [Sesión 1](sesiones/s01)
- - [Sesión 2](sesiones/s02)
- - [Sesión 3](sesiones/s03)
- - [Sesión 4](sesiones/s04)
- - [Sesión 5](sesiones/s05)
- - [Sesión 6](sesiones/s06)
- - [Sesión 7](sesiones/s07)
- - [Sesión 8](sesiones/s08)
- - [Sesión 9](sesiones/s09)
-
 ## NPCs
 
 | **Nombre** | **Descripción** | **Raza** | **Visto por última vez** |
@@ -70,3 +58,15 @@ Página principal para las notas de la campaña.
 3. Sociedad Ytepka
 4. Orden del Guantelete
 5. Enclave Esmeralda
+
+## Sesiones
+
+ - [Sesión 1](sesiones/s01)
+ - [Sesión 2](sesiones/s02)
+ - [Sesión 3](sesiones/s03)
+ - [Sesión 4](sesiones/s04)
+ - [Sesión 5](sesiones/s05)
+ - [Sesión 6](sesiones/s06)
+ - [Sesión 7](sesiones/s07)
+ - [Sesión 8](sesiones/s08)
+ - [Sesión 9](sesiones/s09)
