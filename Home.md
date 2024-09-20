@@ -13,6 +13,10 @@ Página principal para las notas de la campaña.
 |  _Gonzalo_  |   [Ilhmed](pjs/Ilhmed)   |  Humano  |   Clérigo |     5     |   Activo   |
 |   _Santos_  |   [Tehlama](pjs/Tehlama)  |   Elfo   |   Pícaro  |     4     |  Inactivo  |
 
+### Mascotas y familiares
+
+- [Kriv](mascotas/Kriv)
+
 ## Sesiones
 
  - [Sesión 1](sesiones/s01)
@@ -34,7 +38,11 @@ Página principal para las notas de la campaña.
 |  [Ayo](npcs/Ayo)  |  Armero  |  Humano  |   [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 |   [Brottor](npcs/Brottor)  | Puño del Puño Ardiente | Enano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Erky 'Plumaveloz'](npcs/Plumaveloz) | Cartógrafo y librero | Gnomo | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-| [Undril Colmilloplateado](npcs/Undril Colmilloplateado) | Clériga de la Orden del Guantelete | Semiorco | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Undril Colmilloplateado](npcs/Undril) | Clériga de la Orden del Guantelete | Semiorco | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Niles Rompehuesos](npcs/Niles) | Comandante de la Orden del Guantelete | Humano | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Ord](npcs/Ord) | Capitán de la Orden del Guantelete | Enano | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Perne](npcs/Perne) | Capitana de la Orden del Guantelete | Humano | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Osborn Buenbarril](npcs/Osborn) | Mercader y contrabandista | Mediano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) | 
 
 
 ## Facciones
