@@ -6,6 +6,10 @@ _Bestia grande, no alineado_
 
 Un hadrosaurio es un herbívoro semicuadrúpedo reconocible por su cresta ósea. Si se le cría desde pequeño, se le puede entrenar para llevar un jinete Pequeño o Mediano.
 
+| Fue     | Des     | Con     | Int    | Sab     | Car    |
+|---------|---------|---------|--------|---------|--------|
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
+
 **Categoría**: Bestia
 
 **Clase de armadura**: 11 (natural)
@@ -13,10 +17,6 @@ Un hadrosaurio es un herbívoro semicuadrúpedo reconocible por su cresta ósea.
 **Puntos de Golpe**: 19
 
 **Velocidad**: 40 pies
-
-| Fue     | Des     | Con     | Int    | Sab     | Car    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Habilidades**: Percepción +2
 
