@@ -61,9 +61,9 @@ Página principal para las notas de la campaña.
 
 ## Sesiones
 
- - [Sesión 1](sesiones/s01)
- - [Sesión 2](sesiones/s02)
- - [Sesión 3](sesiones/s03)
+ - [Sesión 1: Inicios en Puerto Nyanzaru](sesiones/s01)
+ - [Sesión 2: Emboscada en Puerto Nyanzaru](sesiones/s02)
+ - [Sesión 3: Carreras de dinosaurios](sesiones/s03)
  - [Sesión 4](sesiones/s04)
  - [Sesión 5](sesiones/s05)
  - [Sesión 6](sesiones/s06)
