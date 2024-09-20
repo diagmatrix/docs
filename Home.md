@@ -15,7 +15,9 @@ Página principal para las notas de la campaña.
 
 ### Mascotas y familiares
 
-- [Kriv](monstruos/Kriv)
+| **Nombre** | **Raza** | **Estado ** |
+|:-----------:|:----------:|:----------:|
+|[Kriv](monstruos/Kriv) | Hadrosaurio | Activo |
 
 ## Sesiones
 
