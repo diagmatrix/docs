@@ -2,11 +2,11 @@
 
 ## Guías
 
-- [Musharib](npcs/Musharib).
-- [Faroul](npcs/Faroul) y [Gondolo](npcs/Gondolo).
-- [Salysa](npcs/Salysa).
-- [Hew Hackinstone](npcs/Hew).
-- [Shago](npcs/Shago).
+- [Musharib](/npcs/Musharib).
+- [Faroul](/npcs/Faroul) y [Gondolo](/npcs/Gondolo).
+- [Salysa](/npcs/Salysa).
+- [Hew Hackinstone](/npcs/Hew).
+- [Shago](/npcs/Shago).
 
 ## Rumores
 
