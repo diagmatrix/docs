@@ -71,5 +71,5 @@ Página principal para las notas de la campaña.
  - [Sesión 7: Osborn el timador](sesiones/s07)
  - [Sesión 8: Las argucias de Hew](sesiones/s08)
  - [Sesión 9: Encuentros en la jungla](sesiones/s09)
- - [Sesión 10: Extravagancias anfibias](sesiones/s10)
+ - [Sesión 10: Aventuras anfibias](sesiones/s10)
  - [Sesión 11: TBD](sesiones/s11)
