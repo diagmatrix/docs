@@ -42,6 +42,7 @@ Página principal para las notas de la campaña.
 | [Hew Hackinstone](npcs/Hew) | Guía | Enano | [Cuenca Aldani](lugares/Cuenca Aldani) |
 | [Arondir](npcs/Arondir) | Miembro del Enclave Esmeralda | Elfo | - |
 | [Balin](npcs/Balin) | Miembro del Enclave Esmeralda | Elfo | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
+| [Thaselandra Alavaliente](npcs/Thaselandra) | Capitana de la Diosa Estelar | Humano | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
 | [Groak](npcs/Groak) | Rey de los grungs | Grung | [Drunglunglung](lugares/Drunglunglung) |
 | [Krr'ook](npcs/Krrook) | Sacerdotisa | Grung | [Drunglunglung](lugares/Drunglunglung) |
 
