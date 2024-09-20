@@ -43,7 +43,11 @@ Página principal para las notas de la campaña.
 | [Ord](npcs/Ord) | Capitán de la Orden del Guantelete | Enano | [Campamento Venganza](lugares/Campamento Venganza) |
 | [Perne](npcs/Perne) | Capitana de la Orden del Guantelete | Humano | [Campamento Venganza](lugares/Campamento Venganza) |
 | [Osborn Buenbarril](npcs/Osborn) | Mercader y contrabandista | Mediano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) | 
-
+| [Zorin](npcs/Zorin) | Guardia de la Orden del Guantelete | Humano | [Campamento Venganza](lugares/Campamento Venganza) |
+| [Abuelo Zitembe](npcs/Zitembe) | Sacerdote de Savras | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+| [Wakanga O'Tamu](npcs/Wakanga) | Príncipe mercante | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+| [Kwayothé](npcs/Kwayothé) | Princesa mercante | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+| [Shago](npcs/Shago) | Guía | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 
 ## Facciones
 
