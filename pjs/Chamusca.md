@@ -1,7 +1,7 @@
 # Características
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="border: 1px solid; border-radius: 0.5em; border-color: #571713; display: flex; align-content: center;">
+    <div style="border: 4px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
                 <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Fuerza</th>
