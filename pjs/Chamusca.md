@@ -4,7 +4,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Fuerza</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Fue</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
@@ -19,7 +19,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Destreza</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Des</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
@@ -34,7 +34,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Constitución</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Con</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
@@ -49,7 +49,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Inteligencia</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Int</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
@@ -64,7 +64,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Sabiduría</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Sab</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
@@ -79,7 +79,7 @@
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
-                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Carisma</th>
+                <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Car</th>
             </thead>
             <tbody>
                 <tr style="background-color: #e6eac1;">
