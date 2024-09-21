@@ -1,6 +1,5 @@
 # Características
-:white_circle:
-<div style="display: flex; justify-content: space-between; align-content: center;">
+<div style="display: flex; justify-content: space-between; align-content: center; column-gap: 2em; height: 100%">
     <div style="display: flex; width: 70%; flex-direction: column; align-content: space-around;">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center;">
             <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
@@ -10,10 +9,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">0</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">11</td>
                         </tr>
                     </tbody>
                 </table>
@@ -25,10 +24,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">+3</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">16</td>
                         </tr>
                     </tbody>
                 </table>
@@ -40,10 +39,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">+1</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">12</td>
                         </tr>
                     </tbody>
                 </table>
@@ -55,10 +54,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">+2</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">14</td>
                         </tr>
                     </tbody>
                 </table>
@@ -70,10 +69,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">0</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">10</td>
                         </tr>
                     </tbody>
                 </table>
@@ -85,10 +84,10 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 2em;">+4</td>
                         </tr>
                         <tr>
-                            <td style="text-align: center;">+0</td>
+                            <td style="text-align: center;">18</td>
                         </tr>
                     </tbody>
                 </table>
@@ -102,7 +101,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">11</td>
+                            <td style="text-align: center; font-size: 1.5em;">11</td>
                         </tr>
                     </tbody>
                 </table>
@@ -114,7 +113,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">+3</td>
+                            <td style="text-align: center; font-size:  1.5em;">+3</td>
                         </tr>
                     </tbody>
                 </table>
@@ -126,7 +125,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">25</td>
+                            <td style="text-align: center; font-size:  1.5em;">25</td>
                         </tr>
                     </tbody>
                 </table>
@@ -138,7 +137,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">13 (15)</td>
+                            <td style="text-align: center; font-size: 1.5em;">13 (15)</td>
                         </tr>
                     </tbody>
                 </table>
@@ -150,7 +149,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="text-align: center; font-size: 2em;">+3</td>
+                            <td style="text-align: center; font-size: 1.5em;">+3</td>
                         </tr>
                     </tbody>
                 </table>
@@ -171,7 +170,7 @@
                 <td>Destreza</td><td>:black_circle:</td>
             </tr>
             <tr>
-                <td>Constitución</td><td>:black_circle:</td>
+                <td>Constitución</td><td>:white_circle:</td>
             </tr>
             <tr>
                 <td>Inteligencia</td><td>:black_circle:</td>
@@ -180,7 +179,7 @@
                 <td>Sabiduría</td><td>:black_circle:</td>
             </tr>
             <tr>
-                <td>Carisma</td><td>:black_circle:</td>
+                <td>Carisma</td><td>:white_circle:</td>
             </tr>
         </tbody>
     </table>
