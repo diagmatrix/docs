@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; gap: 2em;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="border: 1px solid; border-radius: 0.5em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
