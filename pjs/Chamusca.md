@@ -1,96 +1,160 @@
 # Características
-
+:white_circle:
 <div style="display: flex; justify-content: space-between; align-content: center;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 50%;">
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Fue</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
+    <div style="display: flex; width: 70%; flex-direction: column; align-content: space-around;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center;">
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Fue</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Des</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Con</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Int</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Sab</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Car</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: center;">+0</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Des</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Con</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Int</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Sab</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
-            <table style="margin: 0;">
-                <thead>
-                    <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Car</th>
-                </thead>
-                <tbody>
-                    <tr style="background-color: #e6eac1;">
-                        <td style="text-align: center; font-size: 2em;">11</td>
-                    </tr>
-                    <tr>
-                        <td style="text-align: center;">+0</td>
-                    </tr>
-                </tbody>
-            </table>
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center;">
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Puntos de golpe</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">11</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Iniciativa</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">+3</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Velocidad</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">25</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">CA</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">13 (15)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
+                <table style="margin: 0;">
+                    <thead>
+                        <th style="font-family: 'Alegreya Sans SC'; font-size: 1.5em;">Competencia</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td style="text-align: center; font-size: 2em;">+3</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
     <table>
