@@ -1,6 +1,6 @@
 # Características
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 50%;">
     <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
         <table>
             <thead>
