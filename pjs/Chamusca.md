@@ -1,5 +1,6 @@
 # Características
-<div style="display: flex; justify-content: space-between; align-content: center; column-gap: 2em; height: 100%">
+
+<div style="display: flex; justify-content: space-between; align-content: center;">
     <div style="display: flex; width: 70%; flex-direction: column; align-content: space-around;">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center;">
             <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
@@ -93,7 +94,7 @@
                 </table>
             </div>
         </div>
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%; align-items: center; padding-top: 2em;">
             <div style="border: 2px solid; border-radius: 0.25em; border-color: #571713; display: flex; align-content: center;">
                 <table style="margin: 0;">
                     <thead>
@@ -164,22 +165,22 @@
         </thead>
         <tbody>
             <tr>
-                <td>Fuerza</td><td>:black_circle:</td>
+                <td>Fuerza</td><td>:white_circle:</td>
             </tr>
             <tr>
-                <td>Destreza</td><td>:black_circle:</td>
+                <td>Destreza</td><td>:white_circle:</td>
             </tr>
             <tr>
-                <td>Constitución</td><td>:white_circle:</td>
+                <td>Constitución</td><td>:black_circle:</td>
             </tr>
             <tr>
-                <td>Inteligencia</td><td>:black_circle:</td>
+                <td>Inteligencia</td><td>:white_circle:</td>
             </tr>
             <tr>
-                <td>Sabiduría</td><td>:black_circle:</td>
+                <td>Sabiduría</td><td>:white_circle:</td>
             </tr>
             <tr>
-                <td>Carisma</td><td>:white_circle:</td>
+                <td>Carisma</td><td>:black_circle:</td>
             </tr>
         </tbody>
     </table>
