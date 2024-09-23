@@ -73,3 +73,7 @@ Página principal para las notas de la campaña.
  - [Sesión 9: Encuentros en la jungla](sesiones/s09)
  - [Sesión 10: Aventuras anfibias](sesiones/s10)
  - [Sesión 11: TBD](sesiones/s11)
+
+## Calendario
+
+![Calendario de Haptos](https://calendarlocal.us/wp-content/uploads/2020/12/printable-faerun-calendar-arts-crafts-dd-beyond.png)
