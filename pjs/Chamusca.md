@@ -197,19 +197,25 @@
 # Habilidades
 
 <table>
-<tr><td markdown="1">
+<tr style="background-color: rgba(255, 254, 189, 0.2);"><td markdown="1">
 
 | Nombre | Competencia | Modificador | Total |
 |--------|:-----------:|:-----------:|:-----:|
 | _Acrobacias_ | :white_circle: | Des | +3 |
 | _Arcanos_ | :white_circle: | Int | +2 |
 | _Atletismo_ | :white_circle: | Fue | +0 |
+| _Engaño_ | :white_circle: | Car | +4 |
+| _Historia_ | :black_circle: | Int | +5 |
+| _Interpretación_ | :white_circle: | Car | +4 |
+| _Intimidación_ | :white_circle: | Car | +4 |
+| _Invetigación_ | :white_circle: | Int | +2 |
+| _Juego de manos_ | :white_circle: | Des | +3 |
 
-</td><td style="width: 6em;">
-</td><td markdown="1">
+</td><td style="width: 6em; ">
+</td><td  markdown="1">
 
 | Nombre | Competencia | Modificador | Total |
 |--------|:-----------:|:-----------:|:-----:|
-| _Atletismo_ | :white_circle: | Fue | +0 |
+| _Medicina_ | :white_circle: | Fue | +0 |
 
 </td></tr></table>
