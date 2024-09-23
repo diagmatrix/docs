@@ -1,6 +1,6 @@
 **Jugadora:** Elvira  &emsp;**Nombre:** Zanna "Chamusca" Folkor &emsp;**Raza:** Gnomo de los bosques &emsp;**Clase y nivel:** Hechicera 5 &emsp;**Exp:** 11215
 
-# Características
+# Estadísticas
 
 <div style="display: flex; justify-content: space-between; align-content: center;">
     <div style="display: flex; width: 70%; flex-direction: column; align-content: space-around;">
@@ -188,7 +188,7 @@
     </table>
 </div>
 
-# Habilidades
+## Habilidades
 
 <table>
 <tr style="background-color: rgba(255, 254, 189, 0.2);"><td markdown="1">
@@ -205,7 +205,7 @@
 | _Invetigación_ | :white_circle: | Int | +2 |
 | _Juego de manos_ | :white_circle: | Des | +3 |
 
-</td><td style="width: 6em; ">
+</td><td style="width: 2em; ">
 </td><td  markdown="1">
 
 | Nombre | Competencia | Modificador | Total |
@@ -225,3 +225,6 @@
 ## Competencias
 
 Competencia en ballestas ligeras, bastones, dagas, dardos, herramientas de cartógrafo y hondas.
+
+## Ataques
+
