@@ -76,4 +76,4 @@ Página principal para las notas de la campaña.
 
 ## Calendario
 
-![Calendario de Haptos](https://calendarlocal.us/wp-content/uploads/2020/12/printable-faerun-calendar-arts-crafts-dd-beyond.png)
+![Calendario de Haptos](/assets/calendar.jpg)
