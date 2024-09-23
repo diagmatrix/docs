@@ -1,10 +1,4 @@
-**Nombre:** Zanna "Chamusca" Folkor
-
-**Raza:** Gnomo de los bosques
-
-**Clase y nivel:** Hechicera 5
-
-**Experiencia:** 11215
+**Jugadora:** Elvira  &emsp;**Nombre:** Zanna "Chamusca" Folkor &emsp;**Raza:** Gnomo de los bosques &emsp;**Clase y nivel:** Hechicera 5 &emsp;**Exp:** 11215
 
 # Características
 
