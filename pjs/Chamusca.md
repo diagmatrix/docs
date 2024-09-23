@@ -1,3 +1,11 @@
+**Nombre:** Zanna "Chamusca" Folkor
+
+**Raza:** Gnomo de los bosques
+
+**Clase y nivel:** Hechicera 5
+
+**Experiencia:** 11215
+
 # Características
 
 <div style="display: flex; justify-content: space-between; align-content: center;">
@@ -185,3 +193,23 @@
         </tbody>
     </table>
 </div>
+
+# Habilidades
+
+<table>
+<tr><td markdown="1">
+
+| Nombre | Competencia | Modificador | Total |
+|--------|:-----------:|:-----------:|:-----:|
+| _Acrobacias_ | :white_circle: | Des | +3 |
+| _Arcanos_ | :white_circle: | Int | +2 |
+| _Atletismo_ | :white_circle: | Fue | +0 |
+
+</td><td style="width: 6em;">
+</td><td markdown="1">
+
+| Nombre | Competencia | Modificador | Total |
+|--------|:-----------:|:-----------:|:-----:|
+| _Atletismo_ | :white_circle: | Fue | +0 |
+
+</td></tr></table>
