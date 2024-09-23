@@ -221,3 +221,7 @@
 | _Trato con animales_ | :white_circle: | Sab | +0 |
 
 </td></tr></table>
+
+## Competencias
+
+Competencia en ballestas ligeras, bastones, dagas, dardos, herramientas de cartógrafo y hondas.
