@@ -217,5 +217,13 @@
 | Nombre | Competencia | Modificador | Total |
 |--------|:-----------:|:-----------:|:-----:|
 | _Medicina_ | :white_circle: | Fue | +0 |
+| _Naturaleza_ | :white_circle: | Int | +2 |
+| _Percepción_ | :white_circle: | Sab | +0 |
+| _Perspicacia_ | :black_circle: | Sab | +3 |
+| _Persuasión_ | :black_circle: | Car | +7 |
+| _Religión_ | :white_circle: | Int | +2 |
+| _Sigilo_ | :white_circle: | Des | +3 |
+| _Supervivencia_ | :black_circle: | Sab | +3 |
+| _Trato con animales_ | :white_circle: | Sab | +0 |
 
 </td></tr></table>
