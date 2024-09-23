@@ -1,5 +1,11 @@
 # Puerto Nyanzaru
 
+![Puerto de la ciudad](/assets/puerto_nyanzaru.jpg)
+
+## Mapa de la ciudad
+
+![Mapa de la ciudad](/assets/mapa_puerto_nyanzaru.jpg)
+
 ## Guías
 
 - [Musharib](/npcs/Musharib).
