@@ -2,4 +2,4 @@
 
 ## Mapa del lugar
 
-![Mapa del lugar](/assets/campamento_justicia_mapa.jpg)
+[[/assets/campamento_justicia_mapa.jpg|align=center]]
