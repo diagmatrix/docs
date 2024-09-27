@@ -14,7 +14,7 @@
 
 # Trasfondo: Arqueóloga
 
-Un arqueólogo aprende sobre culturas desaparecidas hace tiempo estudiando sus restos materiales: sus huesos, sus ruinas, sus obras maestras supervivientes y sus sepulcros. Los que practican la arqueología viajan a los rincones más recónditos del mundo para examinar ciudades desmoronadas y mazmorras perdidas, excavando en busca de artefactos que pudieran narrar historias de monarcas y altos sacerdotes, de guerras y cataclismos. Idiomas: uno de tu elección.
+Un arqueólogo aprende sobre culturas desaparecidas hace tiempo estudiando sus restos materiales: sus huesos, sus ruinas, sus obras maestras supervivientes y sus sepulcros. Los que practican la arqueología viajan a los rincones más recónditos del mundo para examinar ciudades desmoronadas y mazmorras perdidas, excavando en busca de artefactos que pudieran narrar historias de monarcas y altos sacerdotes, de guerras y cataclismos.
 
 ## Características
 
