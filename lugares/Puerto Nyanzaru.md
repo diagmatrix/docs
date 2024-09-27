@@ -1,10 +1,10 @@
 # Puerto Nyanzaru
 
-![Puerto de la ciudad](/assets/puerto_nyanzaru.jpg)
+[[/assets/puerto_nyanzaru.jpg|align=center]]
 
 ## Mapa de la ciudad
 
-![Mapa de la ciudad](/assets/mapa_puerto_nyanzaru.jpg)
+[[/assets/mapa_puerto_nyanzaru.jpg|align=center]]
 
 ## Guías
 
