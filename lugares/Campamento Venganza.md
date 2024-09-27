@@ -2,4 +2,4 @@
 
 ## Mapa del lugar
 
-![Mapa del lugar](/assets/campamento_venganza_mapa.jpg)
+[[/assets/campamento_venganza_mapa.jpg|align=center]]
