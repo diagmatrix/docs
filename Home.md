@@ -54,11 +54,11 @@ Página principal para las notas de la campaña.
 
 ## Facciones
 
-1. Puño Ardiente
-2. Zhentarim
-3. Sociedad Ytepka
-4. Orden del Guantelete
-5. Enclave Esmeralda
+1. [Puño Ardiente](facciones/Puño Ardiente)
+2. [Zhentarim](facciones/Zhentarim)
+3. [Sociedad Ytepka](facciones/Sociedad Ytepka)
+4. [Orden del Guantelete](facciones/Orden del Guantelete)
+5. [Enclave Esmeralda](facciones/Enclave Esmeralda)
 
 ## Sesiones
 
