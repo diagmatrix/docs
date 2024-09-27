@@ -1,4 +1,4 @@
-**Jugadora:** David  &emsp;**Nombre:** Tercero &emsp;**Raza:** Genasi de tierra &emsp;**Clase y nivel:** Bárbaro 5 &emsp;**Exp:** 10199
+**Jugador:** David  &emsp;**Nombre:** Tercero &emsp;**Raza:** Genasi de tierra &emsp;**Clase y nivel:** Bárbaro 5 &emsp;**Exp:** 10199
 
 **Enlace a la ficha:** [https://nivel20.com/s/nqntzczc](https://nivel20.com/s/nqntzczc)
 
