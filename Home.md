@@ -8,16 +8,16 @@ Página principal para las notas de la campaña.
 
 | **Jugador** | **Nombre** | **Raza** | **Clase** | **Nivel** | **Estado** |
 |:-----------:|:----------:|:--------:|:---------:|:---------:|:----------:|
-|   _David_   |   [Tercero](pjs/Tercero)  |  Genasi  |   Bárbaro |     5     |   Activo   |
-|   _Elvira_  | ["Chamusca"](pjs/Chamusca) |   Gnomo  | Hechicero |     5     |   Activo   |
-|  _Gonzalo_  |   [Ilmhed](pjs/Ilmhed)   |  Humano  |   Clérigo |     5     |   Activo   |
-|   _Santos_  |   [Tehlama](pjs/Tehlama)  |   Elfo   |   Pícaro  |     3     |  Inactivo  |
+|   _David_   |   [[pjs/Tercero]]  |  Genasi  |   Bárbaro |     5     |   Activo   |
+|   _Elvira_  | [[pjs/Chamusca]] |   Gnomo  | Hechicero |     5     |   Activo   |
+|  _Gonzalo_  |   [[pjs/Ilmhed]]   |  Humano  |   Clérigo |     5     |   Activo   |
+|   _Santos_  |   [[pjs/Tehlama]]  |   Elfo   |   Pícaro  |     3     |  Inactivo  |
 
 ### Mascotas y familiares
 
 | **Nombre** | **Raza** | **Estado** |
 |:-----------:|:----------:|:----------:|
-|[Kriv](monstruos/Kriv) | Hadrosaurio | Activo |
+|[[Kriv]] | Hadrosaurio | Activo |
 
 ## NPCs
 
