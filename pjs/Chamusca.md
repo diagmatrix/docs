@@ -1,6 +1,6 @@
 **Jugadora:** Elvira  &emsp;**Nombre:** Zanna "Chamusca" Folkor &emsp;**Raza:** Gnomo de los bosques &emsp;**Clase y nivel:** Hechicera 5 &emsp;**Exp:** 11215
 
-**Enlace a la ficha:** [https://nivel20.com/games/dnd-5/campaigns/78104-tumba-de-la-aniquilacion/characters/1018818-zanna-chamusca-folkor](https://nivel20.com/games/dnd-5/campaigns/78104-tumba-de-la-aniquilacion/characters/1018818-zanna-chamusca-folkor)
+**Enlace a la ficha:** [https://nivel20.com/s/nqoczczc](https://nivel20.com/s/nqoczczc)
 
 # Estadísticas
 
