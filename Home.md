@@ -17,16 +17,16 @@ Página principal para las notas de la campaña.
 
 | **Nombre** | **Raza** | **Estado** |
 |:-----------:|:----------:|:----------:|
-|[[Kriv]] | Hadrosaurio | Activo |
+|[[monstruos/Kriv]] | Hadrosaurio | Activo |
 
 ## NPCs
 
 | **Nombre** | **Descripción** | **Raza** | **Visto por última vez** |
 |:-----------:|:----------:|:--------:|:---------:|
-|   [Syndra Silvane](npcs/Syndra)   | Patrona de la campaña |  ?  | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-|   [Abbad](npcs/Abbad)  | Frutero  | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-|  [Ayo](npcs/Ayo)  |  Armero  |  Humano  |   [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-|   [Brottor](npcs/Brottor)  | Puño del Puño Ardiente | Enano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|   [[npcs/Syndra]]   | Patrona de la campaña |  ?  | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|   [[npcs/Abbad]]   | Frutero  | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|  [[npcs/Ayo]]   |  Armero  |  Humano  |   [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
+|   [[npcs/Brottor]]  | Puño del Puño Ardiente | Enano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Erky 'Plumaveloz'](npcs/Plumaveloz) | Cartógrafo y librero | Gnomo | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Undril Colmilloplateado](npcs/Undril) | Clériga de la Orden del Guantelete | Semiorco | [Campamento Venganza](lugares/Campamento Venganza) |
 | [Niles Rompehuesos](npcs/Niles) | Comandante de la Orden del Guantelete | Humano | [Campamento Venganza](lugares/Campamento Venganza) |
