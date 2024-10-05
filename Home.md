@@ -11,7 +11,8 @@ Página principal para las notas de la campaña.
 |   _David_   |   [[pjs/Tercero]]  |  Genasi  |   Bárbaro |     5     |   Activo   |
 |   _Elvira_  | [[pjs/Chamusca]] |   Gnomo  | Hechicero |     5     |   Activo   |
 |  _Gonzalo_  |   [[pjs/Ilmhed]]   |  Humano  |   Clérigo |     5     |   Activo   |
-|   _Santos_  |   [[pjs/Tehlama]]  |   Elfo   |   Pícaro  |     3     |  Inactivo  |
+|   _Santos_  |   [[pjs/Tehlama]]  |   Elfo   |   Pícaro  |     5     |  Activo  |
+|   _Jaime_  |   [[pjs/Luz]]  |   Tabaxi   |   Explorador  |     3     |  Activo  |
 
 ### Mascotas y familiares
 
