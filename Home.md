@@ -19,6 +19,7 @@ Página principal para las notas de la campaña.
 | **Nombre** | **Raza** | **Estado** |
 |:-----------:|:----------:|:----------:|
 |[[monstruos/Kriv]] | Hadrosaurio | Activo |
+|[[monstruos/Nono]] | Jaguar | Activo |
 
 ## NPCs
 
