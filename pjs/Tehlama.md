@@ -1,4 +1,4 @@
-**Jugador:** Santos  &emsp;**Nombre:** Tehlama Maste &emsp;**Raza:** Elfo de los bosques &emsp;**Clase y nivel:** Pícaro 5 &emsp;**Exp:** 1650
+**Jugador:** Santos  &emsp;**Nombre:** Tehlama Maste &emsp;**Raza:** Elfo de los bosques &emsp;**Clase y nivel:** Pícaro 5 &emsp;**Exp:** 6500
 
 **Enlace a la ficha:** [https://nivel20.com/s/omluzczc](https://nivel20.com/s/omluzczc)
 
