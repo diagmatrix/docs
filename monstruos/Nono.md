@@ -28,7 +28,7 @@ recibe 1d6 de daño cortante adicional. Si el objetivo es una
 criatura, deberá superar una tirada de salvación de Fuerza
 contra el CD de salvación de conjuros de Luz del Amanecer o será derribada.
 
-* Ví_nculo Primigenio_. Se añade el bonificador por competencia de Luz del Amanecer
+* _Vínculo Primigenio_. Se añade el bonificador por competencia de Luz del Amanecer
 a cualquier prueba de caracterfstica o tirada de salvación que
 realice Nono.
 
