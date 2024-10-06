@@ -1,4 +1,4 @@
-**Jugadora:** Elvira  &emsp;**Nombre:** Zanna "Chamusca" Folkor &emsp;**Raza:** Gnomo de los bosques &emsp;**Clase y nivel:** Hechicera 5 &emsp;**Exp:** 11215
+**Jugadora:** Elvira  &emsp;**Nombre:** Zanna "Chamusca" Folkor &emsp;**Raza:** Gnomo de los bosques &emsp;**Clase y nivel:** Hechicera 5 &emsp;**Exp:** 12265
 
 **Enlace a la ficha:** [https://nivel20.com/s/nqoczczc](https://nivel20.com/s/nqoczczc)
 
