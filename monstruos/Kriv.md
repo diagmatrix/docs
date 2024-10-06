@@ -36,3 +36,5 @@ Un hadrosaurio es un herbívoro semicuadrúpedo reconocible por su cresta ósea.
 * Vasija alquímica.
 * Baba de caracol flagelo en una hoja.
 * Maravilloso pigmento de Nolzur (1 frasco).
+* 20 raciones Puño Ardiente
+* 10 unguentos Puño Ardiente
