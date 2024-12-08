@@ -1,16 +1,6 @@
-**Jugador:** Gonzalo  &emsp;**Nombre:** Ilmhed Rein &emsp;**Raza:** Humano &emsp;**Clase y nivel:** Clérigo 5 &emsp;**Exp:** 9516
+**Jugador:** Gonzalo  &emsp;**Nombre:** Ilmhed Rein &emsp;**Raza:** Humano &emsp;**Clase y nivel:** Clérigo 6
 
 **Enlace a la ficha:** [https://nivel20.com/s/o54hzczc](https://nivel20.com/s/o54hzczc)
-
-# Estadísticas
-
-| Fue     | Des     | Con     | Int    | Sab     | Car    |
-|---------|---------|---------|--------|---------|--------|
-| 15 (+2) | 14 (+2) | 15 (+2) | 12 (+1) | 18 (+4) | 15 (+2) |
-
-**Percepción pasiva:** 14
-
-**Sigilo pasivo:** 12
 
 # Trasfondo: Acólito
 
