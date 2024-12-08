@@ -1,16 +1,6 @@
-**Jugador:** Jaime  &emsp;**Nombre:** Luz del Amanecer &emsp;**Raza:** Tabaxi &emsp;**Clase y nivel:** Explorador 3 &emsp;**Exp:** 900
+**Jugador:** Jaime  &emsp;**Nombre:** Luz del Amanecer &emsp;**Raza:** Tabaxi &emsp;**Clase y nivel:** Explorador 3
 
 **Enlace a la ficha:** [http://192.168.1.10:8080/material/pjs/dnd_material_pj_luz.pdf](http://192.168.1.10:8080/material/pjs/dnd_material_pj_luz.pdf)
-
-# Estadísticas
-
-| Fue     | Des     | Con     | Int    | Sab     | Car    |
-|---------|---------|---------|--------|---------|--------|
-| 12 (+1) | 17 (+3) | 14 (+2) | 13 (+1) | 16 (+3) |169 (+3) |
-
-**Percepción pasiva:** 15
-
-**Sigilo pasivo:** 15
 
 # Trasfondo: Charlatán
 
