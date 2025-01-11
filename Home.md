@@ -42,7 +42,7 @@ Página principal para las notas de la campaña.
 | [Kwayothé](npcs/Kwayothé) | Princesa mercante | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Shago](npcs/Shago) | Guía | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Hew Hackinstone](npcs/Hew) | Guía | Enano | Jungla de Chult |
-| [Arondir](npcs/Arondir) | Miembro del Enclave Esmeralda | Elfo | - |
+| [Arondir](npcs/Arondir) | Miembro del Enclave Esmeralda | Semielfo | [Omu](lugares/Omu) |
 | [Balin](npcs/Balin) | Miembro del Enclave Esmeralda | Elfo | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
 | [Thaselandra Alavaliente](npcs/Thaselandra) | Capitana de la Diosa Estelar | Humano | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
 | [Groak](npcs/Groak) | Rey de los grungs | Grung | [Drunglunglung](lugares/Drunglunglung) |
