@@ -12,7 +12,7 @@ Página principal para las notas de la campaña.
 |   _Elvira_  | [[pjs/Chamusca]] |   Gnomo  | Hechicero |     6    |   Activo   |
 |  _Gonzalo_  |   [[pjs/Ilmhed]]   |  Humano  |   Clérigo |     6     |   Activo   |
 |   _Santos_  |   [[pjs/Tehlama]]  |   Elfo   |   Pícaro  |     6     |  Activo  |
-|   _Jaime_  |   [[pjs/Luz]]  |   Tabaxi   |   Explorador  |     3     |  Activo  |
+|   _Jaime_  |   [[pjs/Luz]]  |   Tabaxi   |   Explorador  |     6     |  Activo  |
 
 ### Mascotas y familiares
 
@@ -41,7 +41,7 @@ Página principal para las notas de la campaña.
 | [Wakanga O'Tamu](npcs/Wakanga) | Príncipe mercante | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Kwayothé](npcs/Kwayothé) | Princesa mercante | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
 | [Shago](npcs/Shago) | Guía | Humano | [Puerto Nyanzaru](lugares/Puerto Nyanzaru) |
-| [Hew Hackinstone](npcs/Hew) | Guía | Enano | [Cuenca Aldani](lugares/Cuenca Aldani) |
+| [Hew Hackinstone](npcs/Hew) | Guía | Enano | Jungla de Chult |
 | [Arondir](npcs/Arondir) | Miembro del Enclave Esmeralda | Elfo | - |
 | [Balin](npcs/Balin) | Miembro del Enclave Esmeralda | Elfo | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
 | [Thaselandra Alavaliente](npcs/Thaselandra) | Capitana de la Diosa Estelar | Humano | [Restos de la Diosa Estelar](lugares/Diosa Estelar) |
@@ -61,6 +61,7 @@ Página principal para las notas de la campaña.
 3. [Sociedad Ytepka](facciones/Sociedad Ytepka)
 4. [Orden del Guantelete](facciones/Orden del Guantelete)
 5. [Enclave Esmeralda](facciones/Enclave Esmeralda)
+6. [Yuan-tis](facciones/Yuan tis)
 
 ## Sesiones
 
@@ -76,7 +77,8 @@ Página principal para las notas de la campaña.
  - [Sesión 10: Aventuras anfibias](sesiones/s10)
  - [Sesión 11: El Templo de Wongo parte 1](sesiones/s11)
  - [Sesión 12: El Templo de Wongo parte 2](sesiones/s12)
- - [Sesión 13: TBD](sesiones/s13)
+ - [Sesión 13: Dejando la jungla atrás](sesiones/s13)
+ - [Sesión 14: TBD](sesiones/s14)
 
 ## Calendario
 
