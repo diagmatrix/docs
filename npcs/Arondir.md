@@ -1,6 +1,6 @@
 **Jugador:** NPC  &emsp;**Nombre:** Arondir Hojaseca &emsp;**Raza:** Semielfo &emsp;**Clase y nivel:** Explorador 2
 
-**Enlace a la ficha:** [https://nivel20.com/games/dnd-5/campaigns/78104-tumba-de-la-aniquilacion/characters/1421476-arondir-hojaseca](https://nivel20.com/games/dnd-5/campaigns/78104-tumba-de-la-aniquilacion/characters/1421476-arondir-hojaseca)
+**Enlace a la ficha:** [https://nivel20.com/s/x5duzczc](https://nivel20.com/s/x5duzczc)
 
 # Trasfondo: Miembro del [Enclave Esmeralda](/facciones/Enclave Esmeralda)
 
